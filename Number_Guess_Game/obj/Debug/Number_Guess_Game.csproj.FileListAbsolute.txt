@@ -1,0 +1,6 @@
+C:\Users\Robert\Desktop\Scripts\C#\Number_Guess_Game\Number_Guess_Game\bin\Debug\Number_Guess_Game.exe.config
+C:\Users\Robert\Desktop\Scripts\C#\Number_Guess_Game\Number_Guess_Game\bin\Debug\Number_Guess_Game.exe
+C:\Users\Robert\Desktop\Scripts\C#\Number_Guess_Game\Number_Guess_Game\bin\Debug\Number_Guess_Game.pdb
+C:\Users\Robert\Desktop\Scripts\C#\Number_Guess_Game\Number_Guess_Game\obj\Debug\Number_Guess_Game.exe
+C:\Users\Robert\Desktop\Scripts\C#\Number_Guess_Game\Number_Guess_Game\obj\Debug\Number_Guess_Game.pdb
+C:\Users\Robert\Desktop\Scripts\C#\Number_Guess_Game\Number_Guess_Game\obj\Debug\Number_Guess_Game.csprojResolveAssemblyReference.cache
