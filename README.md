@@ -1,0 +1,2 @@
+# Number_Guess_Game
+ This is a C# Number Guessing Game displayed in the command prompt. It displays the range that the number can be, picks a random value within that range, prompts the user for input, displays a high/lower answer to direct the user towards the answer, displays the remaining number of guesses, displays results when the user guesses correctly, and displays a different results if remaining number of guesses reaches zero. 
